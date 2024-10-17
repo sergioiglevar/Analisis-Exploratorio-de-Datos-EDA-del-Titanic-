@@ -1,7 +1,7 @@
 # 📊 Análisis Exploratorio de Datos (EDA) del Titanic
 
 
-![Portada](https://github.com/sergioiglevar/nevo-Titanic/blob/main/Pictures/portada.jfif
+![Portada](https://github.com/sergioiglevar/nevo-Titanic/blob/main/Pictures/portada.jfif)
 
 ## 🚢 Introducción
 En este proyecto, hemos realizado un análisis exhaustivo de los datos del Titanic para identificar los factores que influenciaron la supervivencia de los pasajeros. Utilizamos técnicas avanzadas de análisis de datos y visualización para desentrañar patrones y tendencias.
