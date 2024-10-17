@@ -1,0 +1,4 @@
+C:/Users/sergi/OneDrive/Escritorio/Bootcamp_DataAnalyst/Temario\Modulo_1/Titanic_Proyeto_de_modulo1/Data/titanic.csv
+Imagen 1: C:/Users/sergi/OneDrive/Escritorio/Bootcamp_DataAnalyst/Temario\Modulo_1/Titanic_Proyeto_de_modulo1/Gráficas/output_knn.png
+Imagen 2: C:/Users/sergi/OneDrive/Escritorio/Bootcamp_DataAnalyst/Temario\Modulo_1/Titanic_Proyeto_de_modulo1/Gráficas/output_mean.png
+df_Knn: C:/Users/sergi/OneDrive/Escritorio/Bootcamp_DataAnalyst/Temario/Modulo_1/Titanic_Proyeto_de_modulo1/Data/df_Knn.csv
